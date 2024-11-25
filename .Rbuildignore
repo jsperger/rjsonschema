@@ -6,3 +6,7 @@
 ^src/Makevars\.win$
 ^LICENSE\.md$
 ^README\.Rmd$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
