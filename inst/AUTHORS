@@ -1,0 +1,134 @@
+Authors of vendored cargo crates
+ - adler2 2.0.0: Jonas Schievink, oyvindln
+ - ahash 0.8.11: Tom Kaitchuck
+ - aho-corasick 1.1.3: Andrew Gallant
+ - autocfg 1.4.0: Josh Stone
+ - backtrace 0.3.74: The Rust Project Developers
+ - base64 0.22.1: Marshall Pierce
+ - bit-set 0.8.0: Alexis Beingessner
+ - bit-vec 0.8.0: Alexis Beingessner
+ - borrow-or-share 0.2.2: Scallop Ye
+ - bumpalo 3.16.0: Nick Fitzgerald
+ - bytecount 0.6.8: Andre Bogus, Joshua Landau
+ - bytes 1.8.0: Carl Lerche, Sean McArthur
+ - cfg-if 1.0.0: Alex Crichton
+ - displaydoc 0.2.5: Jane Lusby
+ - email_address 0.2.9: Simon Johnston
+ - extendr-api 0.7.1: andy-thomason, Thomas Down, Mossa Merhi Reimert, Claus O. Wilke, Hiroaki Yutani, Ilia A. Kosenkov, Michael Milton
+ - extendr-macros 0.7.1: andy-thomason, Thomas Down, Mossa Merhi Reimert, Claus O. Wilke, Hiroaki Yutani, Ilia A. Kosenkov, Michael Milton
+ - fancy-regex 0.14.0: Raph Levien, Robin Stocker
+ - fluent-uri 0.3.2: Scallop Ye
+ - fnv 1.0.7: Alex Crichton
+ - form_urlencoded 1.2.1: The rust-url developers
+ - fraction 0.15.3: dnsl48
+ - getrandom 0.2.15: The Rand Project Developers
+ - hermit-abi 0.3.9: Stefan Lankes
+ - http 1.1.0: Alex Crichton, Carl Lerche, Sean McArthur
+ - http-body 1.0.1: Carl Lerche, Lucio Franco, Sean McArthur
+ - http-body-util 0.1.2: Carl Lerche, Lucio Franco, Sean McArthur
+ - httparse 1.9.5: Sean McArthur
+ - hyper 1.5.1: Sean McArthur
+ - hyper-util 0.1.10: Sean McArthur
+ - icu_collections 1.5.0: The ICU4X Project Developers
+ - icu_locid 1.5.0: The ICU4X Project Developers
+ - icu_locid_transform 1.5.0: The ICU4X Project Developers
+ - icu_locid_transform_data 1.5.0: The ICU4X Project Developers
+ - icu_normalizer 1.5.0: The ICU4X Project Developers
+ - icu_normalizer_data 1.5.0: The ICU4X Project Developers
+ - icu_properties 1.5.1: The ICU4X Project Developers
+ - icu_properties_data 1.5.0: The ICU4X Project Developers
+ - icu_provider 1.5.0: The ICU4X Project Developers
+ - icu_provider_macros 1.5.0: The ICU4X Project Developers
+ - idna 1.0.3: The rust-url developers
+ - idna_adapter 1.2.0: The rust-url developers
+ - ipnet 2.10.1: Kris Price
+ - itoa 1.0.13: David Tolnay
+ - js-sys 0.3.72: The wasm-bindgen Developers
+ - jsonschema 0.26.1: Dmitry Dygalo
+ - lazy_static 1.5.0: Marvin Löbel
+ - libR-sys 0.7.1: andy-thomason, Thomas Down, Mossa Merhi Reimert, Claus O. Wilke, Ilia A. Kosenkov, Hiroaki Yutani
+ - libc 0.2.164: The Rust Project Developers
+ - litemap 0.7.3: The ICU4X Project Developers
+ - log 0.4.22: The Rust Project Developers
+ - memchr 2.7.4: Andrew Gallant, bluss
+ - mime 0.3.17: Sean McArthur
+ - miniz_oxide 0.8.0: Frommi, oyvindln
+ - mio 1.0.2: Carl Lerche, Thomas de Zeeuw, Tokio Contributors
+ - num 0.4.3: The Rust Project Developers
+ - num-bigint 0.4.6: The Rust Project Developers
+ - num-cmp 0.1.0: Kang Seonghoon
+ - num-complex 0.4.6: The Rust Project Developers
+ - num-integer 0.1.46: The Rust Project Developers
+ - num-iter 0.1.45: The Rust Project Developers
+ - num-rational 0.4.2: The Rust Project Developers
+ - num-traits 0.2.19: The Rust Project Developers
+ - once_cell 1.20.2: Aleksey Kladov
+ - paste 1.0.15: David Tolnay
+ - percent-encoding 2.3.1: The rust-url developers
+ - pin-utils 0.1.0: Josef Brandl
+ - proc-macro2 1.0.92: David Tolnay, Alex Crichton
+ - quote 1.0.37: David Tolnay
+ - ref-cast 1.0.23: David Tolnay
+ - ref-cast-impl 1.0.23: David Tolnay
+ - referencing 0.26.1: Dmitry Dygalo
+ - regex-automata 0.4.9: The Rust Project Developers, Andrew Gallant
+ - regex-syntax 0.8.5: The Rust Project Developers, Andrew Gallant
+ - reqwest 0.12.9: Sean McArthur
+ - rustc-demangle 0.1.24: Alex Crichton
+ - ryu 1.0.18: David Tolnay
+ - serde 1.0.215: Erick Tryzelaar, David Tolnay
+ - serde_derive 1.0.215: Erick Tryzelaar, David Tolnay
+ - serde_json 1.0.133: Erick Tryzelaar, David Tolnay
+ - serde_urlencoded 0.7.1: Anthony Ramine
+ - slab 0.4.9: Carl Lerche
+ - smallvec 1.13.2: The Servo Project Developers
+ - socket2 0.5.7: Alex Crichton, Thomas de Zeeuw
+ - stable_deref_trait 1.2.0: Robert Grosse
+ - syn 2.0.89: David Tolnay
+ - sync_wrapper 1.0.2: Actyx AG
+ - synstructure 0.13.1: Nika Layzell
+ - tinystr 0.7.6: The ICU4X Project Developers
+ - tokio 1.41.1: Tokio Contributors
+ - tower-service 0.3.3: Tower Maintainers
+ - tracing 0.1.40: Eliza Weisman, Tokio Contributors
+ - tracing-core 0.1.32: Tokio Contributors
+ - try-lock 0.2.5: Sean McArthur
+ - unicode-ident 1.0.14: David Tolnay
+ - url 2.5.3: The rust-url developers
+ - utf16_iter 1.0.5: Henri Sivonen
+ - utf8_iter 1.0.4: Henri Sivonen
+ - uuid 1.11.0: Ashley Mannix<ashleymannix@live.com.au>, Dylan DPC<dylan.dpc@gmail.com>, Hunar Roop Kahlon<hunar.roop@gmail.com>
+ - version_check 0.9.5: Sergio Benitez
+ - want 0.3.1: Sean McArthur
+ - wasi 0.11.0+wasi-snapshot-preview1: The Cranelift Project Developers
+ - wasm-bindgen 0.2.95: The wasm-bindgen Developers
+ - wasm-bindgen-backend 0.2.95: The wasm-bindgen Developers
+ - wasm-bindgen-futures 0.4.45: The wasm-bindgen Developers
+ - wasm-bindgen-macro 0.2.95: The wasm-bindgen Developers
+ - wasm-bindgen-macro-support 0.2.95: The wasm-bindgen Developers
+ - wasm-bindgen-shared 0.2.95: The wasm-bindgen Developers
+ - web-sys 0.3.72: The wasm-bindgen Developers
+ - windows-registry 0.2.0: Microsoft
+ - windows-result 0.2.0: Microsoft
+ - windows-strings 0.1.0: Microsoft
+ - windows-sys 0.52.0: Microsoft
+ - windows-targets 0.52.6: Microsoft
+ - windows_aarch64_gnullvm 0.52.6: Microsoft
+ - windows_aarch64_msvc 0.52.6: Microsoft
+ - windows_i686_gnu 0.52.6: Microsoft
+ - windows_i686_gnullvm 0.52.6: Microsoft
+ - windows_i686_msvc 0.52.6: Microsoft
+ - windows_x86_64_gnu 0.52.6: Microsoft
+ - windows_x86_64_gnullvm 0.52.6: Microsoft
+ - windows_x86_64_msvc 0.52.6: Microsoft
+ - writeable 0.5.5: The ICU4X Project Developers
+ - yoke 0.7.4: Manish Goregaokar
+ - yoke-derive 0.7.4: Manish Goregaokar
+ - zerocopy 0.7.35: Joshua Liebow-Feeser
+ - zerocopy-derive 0.7.35: Joshua Liebow-Feeser
+ - zerofrom 0.1.4: Manish Goregaokar
+ - zerofrom-derive 0.1.4: Manish Goregaokar
+ - zerovec 0.10.4: The ICU4X Project Developers
+ - zerovec-derive 0.10.3: Manish Goregaokar
+
+(This file was auto-generated from 'cargo metadata' on 2024-11-25)

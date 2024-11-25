@@ -1,0 +1,22 @@
+Package: rjsonschema
+Type: Package
+Title: A JSON Schema Validator for R
+Version: 0.1.0
+Authors@R: c(
+    person("David", "Zimmermann-Kollenda", , "david_j_zimmermann@hotmail.com", role = c("aut", "cre")),
+    person("Dmitry Dygalo", role = "aut", comment = "jsonschema-rs Rust library"),
+    person("Authors of the dependent Rust crates", role = "aut", comment = "see AUTHORS file")
+  )
+Description: JSON schema validator for R, based on the jsonschema-rs Rust library, which provides fast and efficient validations.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Config/rextendr/version: 0.3.1.9001
+SystemRequirements: Cargo (Rust's package manager), rustc (>= 1.70)
+Imports: 
+    yyjsonr
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
