@@ -107,11 +107,19 @@ validate(
 )
 ```
 
+Note that instance can also be an R list directly (will be converted to JSON for validation):
+```{r schema_validate2}
+validate(
+  schema,
+  list(productId = 1, productName = "A green door", price = 12.50)
+)
+```
+
 The JSON object is valid, as it adheres to the schema.
 
 However, the following JSON object is not valid:
 
-```{r schema_validate2}
+```{r schema_validate3}
 validate(
   schema,
   '{"productId": "1", "productName": "A green door", "price": 0}'

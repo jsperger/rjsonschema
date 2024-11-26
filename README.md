@@ -164,6 +164,17 @@ validate(
 #> [1] TRUE
 ```
 
+Note that instance can also be an R list directly (will be converted to
+JSON for validation):
+
+``` r
+validate(
+  schema,
+  list(productId = 1, productName = "A green door", price = 12.50)
+)
+#> [1] TRUE
+```
+
 The JSON object is valid, as it adheres to the schema.
 
 However, the following JSON object is not valid:
