@@ -1,0 +1,3 @@
+[submodule "parsnip"]
+	path = inst/parsnip
+	url = https://github.com/tidymodels/parsnip.git
